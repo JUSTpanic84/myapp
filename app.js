@@ -1,1 +1,1 @@
-alert('what it is?');
+console.log('안녕하세요');
